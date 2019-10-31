@@ -6,7 +6,7 @@ import { Link } from 'react-router-dom'
 
 import { battle } from '../utils/api'
 import Card from './Card'
-import Loading from './loading'
+import Loading from './Loading'
 import Tooltip from './Tooltip'
 
 function ProfileList ({ profile }) {

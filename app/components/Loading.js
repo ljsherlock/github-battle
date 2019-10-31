@@ -38,7 +38,7 @@ export default class Loading extends React.Component {
   }
 }
 
-Loading.protoTypes = {
+Loading.propTypes = {
   text: PropTypes.string.isRequired,
   speed: PropTypes.number.isRequired
 }

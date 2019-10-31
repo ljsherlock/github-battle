@@ -1,6 +1,5 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-// import withHover from './withHover'
 import Hover from './Hover'
 
 const styles = {
